@@ -1,0 +1,9 @@
+Creating a migration
+```
+yarn typeorm migration:create -n migration_name
+```
+
+Running migrations
+```
+yarn typeorm migration:run
+```
